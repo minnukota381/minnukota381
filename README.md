@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Minnu</h1>
 <h4 align="center">A passionate Software Developer</h4>
 
+- 🔭 I’m currently working on Web Development
+-  I’m learning ReactJS to push the boundaries of my skills.
 - I believe in continuous learning. I'm always open to meeting like-minded individuals, sharing knowledge, and collaborating on interesting projects.
 
 
