@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Minnu</h1>
 <h4 align="center">A passionate Software Developer</h4>
 
+Let's connect! Whether you're interested in discussing software development, exploring new projects, or simply sharing insights on the tech industry, I'm always up for engaging conversations.
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
