@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Web Development
 - I believe in continuous learning. I'm always open to meeting like-minded individuals, sharing knowledge, and collaborating on interesting projects.
 
-![](https://komarev.com/ghpvc/?username=minnukota381) <hr/>
+![](https://komarev.com/ghpvc/?username=minnukota381)
 
 <h3 align="left">Languages and Tools:</h3>
 
