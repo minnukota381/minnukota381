@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=minnukota381)
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
