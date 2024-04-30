@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Minnu</h1>
-<h4 align="center">A passionate Software Developer :) </h4>
+<h4 align="center">A passionate Programmer :) </h4>
 
 - 🔭 I’m currently working on Web Development
 - I believe in continuous learning. I'm always open to meeting like-minded individuals, sharing knowledge, and collaborating on interesting projects.
