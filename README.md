@@ -39,17 +39,6 @@ I'm a full-stack web developer with a keen interest in exploring the latest tech
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </p>
 
-### 🚀 Current Project: TravelBuddy
-
-I'm currently working on **TravelBuddy**, a web application that aims to revolutionize the way people plan and experience their travels. With TravelBuddy, users can:
-
-- 📍 Discover and explore new destinations based on their interests and preferences
-- 🗺️ Create personalized travel itineraries with ease
-- 🤝 Connect with fellow travelers and share experiences
-- 💰 Find the best deals on flights, accommodations, and activities
-
-TravelBuddy is built using cutting-edge technologies like **React** for the frontend, **Node.js** and **Express** for the backend, and **MongoDB** as the database. It also incorporates various APIs and libraries to provide a rich and seamless user experience.
-
 ### 📈 GitHub Stats
 
 <p align="center">
