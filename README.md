@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minnukota381&style=flat-square" alt="Profile Views" />
-  <a href="https://twitter.com/minnukota381" target="_blank"><img src="https://img.shields.io/twitter/follow/minnukota381?logo=twitter&style=flat-square" alt="Twitter Follow" /></a>
+  <a href="https://linkedin.com/in/minnukota381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 I'm a full-stack web developer with a keen interest in exploring the latest technologies and building innovative solutions. Currently, I'm working on a cutting-edge web application that leverages **React**, **Node.js**, and **MongoDB** to provide a seamless user experience.
@@ -25,7 +25,7 @@ I'm a full-stack web developer with a keen interest in exploring the latest tech
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme -generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" width="36" height="36" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />&nbsp;&nbsp;
@@ -49,14 +49,13 @@ TravelBuddy is built using cutting-edge technologies like **React** for the fron
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=minnukota381&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minnukota381&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/minnukota381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/minnukota381" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://twitter.com/minnukota381" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://dev.to/minnukota381" target="_blank"><img src="https://img.shields.io/badge/DEV
+  <a href="https://linkedin.com/in/minnukota381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/minnukota381" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://dev.to/minnukota381" target="_blank"><img src="https://img.shields.io/badge/DEV-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"></
