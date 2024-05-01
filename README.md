@@ -10,7 +10,7 @@
   <em>Let's collaborate and build something amazing together! 🤝</em>
 </p>
 
-I'm a passionate full-stack web developer with a keen interest in exploring the latest technologies and crafting innovative solutions. Currently, I'm diving deep into the development of **TravelBuddy**, a cutting-edge web application that leverages **React**, **Node.js**, and **MongoDB** to deliver a seamless user experience.
+I'm a passionate full-stack web developer with a keen interest in exploring the latest technologies and crafting innovative solutions.
 
 ### 🛠 Languages and Tools
 
