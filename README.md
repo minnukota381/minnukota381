@@ -12,7 +12,6 @@
 
 I'm a passionate software and full-stack developer with a diverse skill set, proficient in various programming languages and technologies. From crafting high-performance software solutions to designing immersive web applications, I thrive on challenges and am constantly exploring new technologies to stay ahead of the curve.
 
-
 ### 🛠 Languages and Tools
 
 <p align="center">
@@ -52,4 +51,5 @@ I'm a passionate software and full-stack developer with a diverse skill set, pro
 <p align="center">
   <a href="https://linkedin.com/in/minnukota381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/minnukota381" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://dev.to
+  <a href="https://dev.to/minnukota381" target="_blank"><img src="https://img.shields.io/badge/DEV-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV"></a>
+</p>
