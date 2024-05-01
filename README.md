@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Minnu</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer | Continuous Learner | Innovator 🚀</h3>
+<h3 align="center">A Passionate Programmer | Continuous Learner | Innovator 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minnukota381&style=flat-square" alt="Profile Views" />&nbsp;
@@ -10,7 +10,8 @@
   <em>Let's collaborate and build something amazing together! 🤝</em>
 </p>
 
-I'm a passionate full-stack web developer with a keen interest in exploring the latest technologies and crafting innovative solutions.
+I'm a passionate software and full-stack developer with a diverse skill set, proficient in various programming languages and technologies. From crafting high-performance software solutions to designing immersive web applications, I thrive on challenges and am constantly exploring new technologies to stay ahead of the curve.
+
 
 ### 🛠 Languages and Tools
 
@@ -51,5 +52,4 @@ I'm a passionate full-stack web developer with a keen interest in exploring the 
 <p align="center">
   <a href="https://linkedin.com/in/minnukota381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/minnukota381" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://dev.to/minnukota381" target="_blank"><img src="https://img.shields.io/badge/DEV-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV"></a>
-</p>
+  <a href="https://dev.to
