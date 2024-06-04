@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Minnu</h1>
-<h3 align="center">A Passionate Programmer | Continuous Learner | Innovator 🚀 </h3>
+<h3 align="center"> Programmer | Continuous Learner | Innovator 🚀 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minnukota381&style=flat-square" alt="Profile Views" />&nbsp;
