@@ -44,6 +44,7 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=minnukota381&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <a href="http://www.github.com/minnukota381"><img src="https://github-readme-streak-stats.herokuapp.com/?user=minnukota381&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 ### 🌐 Connect with Me
