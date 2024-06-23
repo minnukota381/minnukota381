@@ -43,7 +43,7 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=minnukota381&show_icons=true&locale=en" width="400" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minnukota381&show_icons=true&locale=en" width="400" height="200" alt="GitHub Stats" />&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnukota381&" width="400" height="200" alt="GitHub Streak" />
 </p>
 
