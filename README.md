@@ -14,8 +14,6 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
 
 ### 🛠 Languages and Tools
 
-### 🛠 Languages and Tools
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />&nbsp;
