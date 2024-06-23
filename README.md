@@ -33,8 +33,8 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="36" height="36" alt="MongoDB" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="36" height="36" alt="PostgreSQL" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="36" height="36" alt="VS Code" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" width="36" height="36" alt="C" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="36" height="36" alt="C++" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python" />&nbsp;
 </p>
