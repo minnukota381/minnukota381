@@ -47,6 +47,8 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnukota381&" width="400" height="200" alt="GitHub Streak" />&nbsp;
 </p>
 
+<a href="http://www.github.com/minnukota381"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=minnukota381&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 ### 🌐 Connect with Me
 
 <p align="center">
