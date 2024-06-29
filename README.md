@@ -12,7 +12,7 @@
 
 I'm a passionate Software and Full Stack Developer with a diverse skill set, proficient in various programming languages and technologies. From crafting high-performance software solutions to designing immersive web applications, I thrive on challenges and am constantly exploring new technologies to stay ahead of the curve.
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />&nbsp;
@@ -39,7 +39,7 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />&nbsp;
 </p>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="Top Languages" />&nbsp;
