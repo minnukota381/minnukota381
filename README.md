@@ -12,7 +12,7 @@
 
 I'm a passionate Software and Full Stack Developer with a diverse skill set, proficient in various programming languages and technologies. From crafting high-performance software solutions to designing immersive web applications, I thrive on challenges and am constantly exploring new technologies to stay ahead of the curve.
 
-## 🛠 Languages and Tools
+<h2 align="center">🛠 Languages and Tools</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />&nbsp;
@@ -39,7 +39,7 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />&nbsp;
 </p>
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="Top Languages" />&nbsp;
@@ -49,7 +49,7 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
 
 [![Minnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minnukota381&theme=github-compact)](https://github.com/minnukota381/github-readme-activity-graph)
 
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://minnu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Minnu|Portfolio-%210008B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Minnu|Portfolio"></a>
