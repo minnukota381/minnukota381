@@ -49,7 +49,7 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
 
 [![Minnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minnukota381&theme=github-compact)](https://github.com/minnukota381/github-readme-activity-graph)
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://minnu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Minnu|Portfolio-%210008B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Minnu|Portfolio"></a>
