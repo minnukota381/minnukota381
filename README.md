@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Minnu</h1>
+<h1 align="center">Hi there! I'm Minnu</h1>
 <h3 align="center">Programmer | Continuous Learner | Innovator 🚀</h3>
 
 <p align="center">
