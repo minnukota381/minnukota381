@@ -41,7 +41,6 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
   <img src="https://qiskit.org/documentation/_images/qiskit-logo.png" alt="Qiskit" width="36" height="36" />&nbsp;
 </p>
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
