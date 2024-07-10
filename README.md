@@ -38,7 +38,7 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" width="36" height="36" style="display: inline-block; color: white;/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" width="36" height="36" style="color: white;/>&nbsp;
 </p>
 
 
