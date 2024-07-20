@@ -42,7 +42,6 @@ I'm a passionate Software and Full Stack Developer with a diverse skill set, pro
 
 </p>
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
