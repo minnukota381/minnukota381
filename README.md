@@ -6,7 +6,6 @@
   <a href="https://linkedin.com/in/minnukota381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-
 <p align="center">
   <em>Let's collaborate and build something amazing together! 🤝</em>
 </p>
