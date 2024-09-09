@@ -10,7 +10,7 @@
   <em>Let's collaborate and build something amazing together! 🤝</em>
 </p>
 
-I'm a passionate Software and Full Stack Developer with a diverse skill set, proficient in various programming languages and technologies. From crafting high-performance software solutions to designing immersive web applications, I thrive on challenges and am constantly exploring new technologies to stay ahead of the curve.
+Emphasizing practical implementations over theoretical concepts. I strive for perfection in everything I do, taking my work ethic very seriously. I love leading and supporting others to reach their goals.
 
 ## 🛠 Languages and Tools
 
