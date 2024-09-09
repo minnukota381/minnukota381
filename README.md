@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Emphasizing practical implementations over theoretical concepts. I strive for perfection in everything I do, taking my work ethic very seriously. I love leading and supporting others to reach their goals.
+  Emphasizing practical implementations over theoretical concepts. I strive for perfection in everything I do, taking my work ethic very seriously. I enjoy leading and supporting others to reach their goals.
 </p>
 
 
