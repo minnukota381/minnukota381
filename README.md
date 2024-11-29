@@ -48,8 +48,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="Top Languages" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=minnukota381&show_icons=true&locale=en" width="400" height="200" alt="GitHub Stats" />&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnukota381&" width="400" height="200" alt="GitHub Streak" />&nbsp;
-</p>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnukota381&" width="400" height="200" alt="GitHub Streak" />&nbsp;-->
+</p> 
 
 [![Minnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minnukota381&theme=github-compact)](https://github.com/minnukota381/github-readme-activity-graph)
 
