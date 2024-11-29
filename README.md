@@ -54,8 +54,5 @@
 [![Minnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minnukota381&theme=github-compact)](https://github.com/minnukota381/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
-
-<p align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minnukota381) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minnukota381) 
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minnukota381) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minnukota381) 
