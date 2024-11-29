@@ -56,7 +56,6 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://minnu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Minnu|Portfolio-%210008B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Minnu|Portfolio"></a>
-  <a href="https://linkedin.com/in/minnukota381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/minnukota381" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minnukota381) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minnukota381) 
 </p>
