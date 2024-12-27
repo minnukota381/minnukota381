@@ -10,7 +10,6 @@
   Emphasizing practical implementations over theoretical concepts. I strive for perfection in everything I do, taking my work ethic very seriously. I enjoy leading and supporting others to reach their goals.
 </p>
 
-
 ## 🛠 Languages and Tools
 
 <p align="center">
@@ -23,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />&nbsp;
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />&nbsp;
@@ -38,22 +37,22 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>&nbsp;
-  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/qiskit/#6929C4" />
-
+  <img src="https://cdn.simpleicons.org/qiskit/#6929C4" width="36" height="36" alt="Qiskit" />
 </p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="Top Languages" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=minnukota381&show_icons=true&locale=en" width="400" height="200" alt="GitHub Stats" />&nbsp;
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnukota381&" width="400" height="200" alt="GitHub Streak" />&nbsp;-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minnukota381&show_icons=true&locale=en&layout=compact" width="350" height="200" alt="Top Languages" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=minnukota381&show_icons=true&locale=en" width="450" height="200" alt="GitHub Stats" />&nbsp;
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnukota381&" width="450" height="200" alt="GitHub Streak" />&nbsp; -->
 </p> 
 
 [![Minnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minnukota381&theme=github-compact)](https://github.com/minnukota381/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/minnukota381) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minnukota381) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minnukota381) 
+<p align="center">
+  <a href="https://x.com/minnukota381" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/minnukota381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/minnukota381" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</p>
