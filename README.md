@@ -52,7 +52,7 @@
 <!-- ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) -->
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,angular,sass,bootstrap,flask,git,ts,nodejs,express,spring,sqlite,mysql,mongodb,postgres,docker,kafka)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,angular,sass,bootstrap,flask,git,ts,nodejs,express,spring,sqlite,mysql,mongodb,postgres,docker,kafka,aws,firebase,gcp)](https://skillicons.dev) 
 
 
 <!--
